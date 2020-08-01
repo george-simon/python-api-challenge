@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Block MAC OS .DS_Store files (if you are collaborating with MAC students)
+.DS_Store
+
+#Block our project API Keys Config
+Config.py

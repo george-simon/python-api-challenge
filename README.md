@@ -4,6 +4,7 @@
 *Analysis*
 ### Observation 1
 After looking over the below linear regression models and r-values of the northern and southern hemispheres as compared to the max temp. The R-values point and the graphing shows that as the latitude values approach the equator the temperature (F) rises.
+
 ![N Temp](/output_data/LReg_MaxTemp_NHemi.png)
 ![S Temp](/output_data/LReg_MaxTemp_SHemi.png)
 

@@ -5,7 +5,7 @@
 I was tasked to creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, I utilized a simple Python library, the OpenWeatherMap API, and a little common sense to create a representative model of weather across world cities.
 
 ### Part II - VacationPy
-Use jupyter-gmaps and the Google Places API to create a heat map that displays the humidity for every city from the part I of the homework. Locate ideal weather conditions. Then utilize Google Places API to find the first hotel for each city located within 5000 meters of your coordinates.
+I was then tasked to use jupyter-gmaps and the Google Places API to create a heat map that displays the humidity for every city from the part I of the homework. Locate ideal weather conditions. Then utilize the Google Places API to find the first hotel for each city located within 5000 meters of your coordinates.
 
 ## Final Analysis Observations
 ### Northern Hemisphere vs Southern Hemisphere - Max Temp vs. Latitude Linear Regression 
